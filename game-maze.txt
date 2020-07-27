@@ -1,0 +1,10 @@
+wall=#
+up=w
+down=s
+left=a
+right=d
+character=O
+time=100
+target=T
+object=X
+Exit=q

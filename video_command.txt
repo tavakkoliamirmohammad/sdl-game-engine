@@ -1,0 +1,2 @@
+vlc -I dummy --dummy-quiet --fullscreen loading.mkv introduction.mkv vlc://quit
+a.exe
